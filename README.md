@@ -1052,7 +1052,7 @@ SOFTWARE.
 
 ## 👥 Authors
 
-- **Your Name** - Initial work
+- **Shakya K. Gurusinghe** - Initial work
 
 ---
 
